@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Evo-Z: The AI Pet Evolution",
+  "description": "A 2026 reimagining of the monster tamer genre where every creature is uniquely generated and evolved through Gemini's multi-modal intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
